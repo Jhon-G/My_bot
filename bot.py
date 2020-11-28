@@ -76,4 +76,3 @@ def talk_to_me(update, context):
 
 
 if __name__ == '__main__':
-    main()
